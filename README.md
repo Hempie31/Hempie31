@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Formula 1 and computers
-- 🌱 I’m currently learning C, C++, Java, Javascript, HTML, CSS and Python
-- 💞️ I’m looking to collaborate on any project that requires back end work
+- 👀 I’m interested in Formula 1 and Hockey
+- 🌱 I’m currently learning C, C++, C#, .NET, Java, Javascript, HTML, CSS and Python
+- 💞️ I’m looking to collaborate on any project, I'm capable of doing front end or back end development.  I am especially interested in projects including data analysis.
 - 📫 How to reach me: by email (alexhill2k1@gmail.com)
 
 <!---
